@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{039DC1C8-2BF8-4C8F-95FB-FD78EDE2B282}</ProjectGuid>
+    <ProjectGuid>{917CD6E7-EEE5-4499-BFDD-0442943AED01}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>AdvertWizard.Model</RootNamespace>
