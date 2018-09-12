@@ -21,7 +21,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Website", "Website", "{F93A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvertWizard.Website", "AdvertWizard.Website\AdvertWizard.Website.csproj", "{598EE1FB-A288-48D5-8441-D249FBCB2B6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvertWizard.Model", "C:\Users\Wizard\Desktop\AdvertWizard-master\AdvertWizard-master\AdvertWizard.Model\AdvertWizard.Model.csproj", "{039DC1C8-2BF8-4C8F-95FB-FD78EDE2B282}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvertWizard.Model", "..\..\..\Downloads\AdvertWizard-master\AdvertWizard-master\AdvertWizard.Model\AdvertWizard.Model.csproj", "{039DC1C8-2BF8-4C8F-95FB-FD78EDE2B282}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
