@@ -33,17 +33,17 @@ namespace AdvertWizard.Model
 
         [Required]
         [Display(Name = "CreatedBy")]
-        public int CreatedBy { get; set; }
+        public int? CreatedBy { get; set; }
 
         [Required]
         [Display(Name = "CreatedAt")]
-        public DateTime CreatedAt { get; set; }
+        public DateTime? CreatedAt { get; set; }
 
         [Display(Name = "UpdatedBy")]
-        public int UpdatedBy { get; set; }
+        public int? UpdatedBy { get; set; }
 
         [Display(Name = "UpdatedAt")]
-        public DateTime UpdatedAt { get; set; }
+        public DateTime? UpdatedAt { get; set; }
 
     }
 
